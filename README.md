@@ -1,4 +1,3 @@
 # hello-world
-ideas, resources
-
-• Repositório para desenvolvimento de habilidades. Um Lab!
+ideas, resources:
+• Repository for Skills development. Um Lab!
